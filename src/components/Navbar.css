@@ -1,0 +1,21 @@
+.pokemon-logo {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  
+  .pokemon-logo span {
+    margin: 0 2px;
+    /* color: #e84118; */
+  }
+  .underline{
+    content: "";
+    width: 4rem;
+    height: 3px;
+    margin: 0 2px;
+    background-color: black;
+  }
